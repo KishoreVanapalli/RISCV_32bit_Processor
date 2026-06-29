@@ -237,6 +237,12 @@ x10 = 2
 
 ---
 
+## Documentation
+
+📄 [Project Report](Documentation/RISCV_32bit_Processor.pdf)
+
+---
+
 ## Author
 
 **Kishore Vanapalli**
